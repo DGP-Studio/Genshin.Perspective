@@ -5,9 +5,10 @@
 * [成就封面](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/AchievementGoal.md)
 * [成就详细](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/Achievements.md)
 #### 角色
-* [角色](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/Avators.md)
-*  [角色时间](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/AvatorTime.md)
+* [角色详细](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/Avators.md)
+*  [角色出现时间](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/AvatorTime.md)
+ *  [角色好感度经验](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/AvatorFetterLevel.md)
 #### 武器
-* [武器](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/Weapons.md)
+* [武器大纲](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/WeaponMaster.md)
 
 
