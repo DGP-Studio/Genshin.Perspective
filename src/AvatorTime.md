@@ -1,3 +1,5 @@
+[返回主页](https://github.com/DGP-Studio/Genshin.Perspective)
+
 |Id|Time|
 |-|-|
 |10000033|2020/11/11 4:00|
