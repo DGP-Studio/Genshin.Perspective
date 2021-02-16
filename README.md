@@ -14,5 +14,10 @@
 * [角色风之翼](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/AvatorFlyCloak.md)
 #### 武器
 * [武器大纲](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/WeaponMaster.md)
+#### 任务
+* [章节](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/Chapter.md)
+#### 杂项
+* [食谱](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/CookRecipe.md)
+* [料理(合成)](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/Compound.md)
 
 
