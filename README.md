@@ -1,5 +1,7 @@
 # Genshin.Perspective
 我们将所有的解包数据重新组织后储存在此Repo中
+此repo不保证更新，因为组织数据并转化为简洁的markdown非常耗时
+数据来源为我们自行解包发掘，并非Dimbreath
 ## 目录
 #### 成就
 * [成就封面](https://github.com/DGP-Studio/Genshin.Perspective/blob/main/src/AchievementGoal.md)
